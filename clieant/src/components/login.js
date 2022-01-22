@@ -11,14 +11,9 @@ const Login = () => {
                 <li><a href="#Sign In">Sign In</a></li>
             </ul>
         </nav>
-        {/* <div>
-            <h1>Laundry Service</h1>
-        </div>
-        <form>
-            <div className="form-inner">
-                <h2>SIGN IN</h2>
-            </div>
-        </form> */}
+
+        
+      
     </>)
 }
 
