@@ -1,0 +1,14 @@
+.register{
+    display: flex;
+    width: 100%;
+    margin: 10px 20px;
+}
+.register-1{
+    width: 25%;
+}
+.register-2{
+    width: 70%;
+}
+.form-group-1,.form-group-2,.form-group-3{
+    display: flex;
+}
