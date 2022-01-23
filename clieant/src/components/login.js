@@ -5,15 +5,16 @@ const Login = () => {
         <nav>
             <label class="logo"> LAUNDRY </label>
             <ul>
-                <li><a href="#home">Home</a></li>
+                <li><a class="active" href="#home">Home</a></li>
                 <li><a href="#Pricing">Pricing</a></li>
                 <li><a href="#Career">Career</a></li>
                 <li><a href="#Sign In">Sign In</a></li>
             </ul>
         </nav>
 
-        
-      
+
+
+
     </>)
 }
 

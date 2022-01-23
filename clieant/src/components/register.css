@@ -12,3 +12,55 @@
 .form-group-1,.form-group-2,.form-group-3{
     display: flex;
 }
+h1{
+    color: #5861AE;
+}
+.box{
+    position: relative;
+    width: 284px;
+    height: 197px;
+    top: 339px;
+    left: 69px;
+    text-align: left;
+    font: normal normal 900 62px/80px Avenir;
+    letter-spacing: 2.48px;
+    color: #5861AE;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.box-1{
+    position: relative;
+    top: 300px;
+    left: 72px;
+    width: 175px;
+    height: 59px;
+    text-align: left;
+    font: normal normal normal 20px/32px Avenir;
+    letter-spacing: 0.8px;
+    color: #565657;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.Bottom-Top{
+  position: relative;
+  top: 712px;
+  left: 72px;
+  width: 171px;
+  height: 22px;
+  text-align: left;
+  font: normal normal normal 16px/26px Avenir;
+  letter-spacing: 0.64px;
+  color: #565657;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.Bottom-Bottom{
+  position: relative;
+  top: 754px;
+  left: 69px;
+  width: 150px;
+  height: 50px;
+  border: 2px solid #5861AE;
+  border-radius: 4px;
+  opacity: 1;
+}
